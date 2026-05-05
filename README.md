@@ -2,7 +2,7 @@
 
 A real-time gold-market analytics dashboard built with Streamlit. Integrates live price, macro, positioning, and options data across eight purpose-built sections, plus a custom **GLD-to-spot conversion model** that empirically recovers the ETF's expense-ratio drift from market data with **0.31% MAPE** on out-of-sample backtest.
 
-> **Live demo:** _(deploy to Streamlit Community Cloud and paste the link here)_
+> **Live demo:** <https://gold-dashboard-akmqi37drund24xahf4xbh.streamlit.app>
 >
 > **Author:** Louis Zhao &middot; [LinkedIn](https://linkedin.com/in/louiswzhao) &middot; [Portfolio](https://econ-g.github.io/louis-portfolio)
 
