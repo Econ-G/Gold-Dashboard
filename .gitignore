@@ -1,0 +1,23 @@
+# Caches generated at runtime
+gld_spot_cache.csv
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Streamlit
+.streamlit/secrets.toml
